@@ -1,0 +1,17 @@
+﻿Build started 2/12/2014 10:37:35 PM.
+     1>Project "C:\Users\RezaulAkram\documents\visual studio 2010\Projects\520-S14-JelloCube\520-S14-JelloCube\520-S14-JelloCube.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\520-S14-JelloCube.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         520-S14-JelloCube.vcxproj -> C:\Users\RezaulAkram\documents\visual studio 2010\Projects\520-S14-JelloCube\Release\520-S14-JelloCube.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\520-S14-JelloCube.unsuccessfulbuild".
+         Touching "Release\520-S14-JelloCube.lastbuildstate".
+     1>Done Building Project "C:\Users\RezaulAkram\documents\visual studio 2010\Projects\520-S14-JelloCube\520-S14-JelloCube\520-S14-JelloCube.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08

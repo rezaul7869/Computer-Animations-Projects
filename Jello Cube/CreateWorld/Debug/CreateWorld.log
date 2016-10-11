@@ -1,0 +1,53 @@
+﻿Build started 2/12/2014 9:06:23 PM.
+     1>Project "C:\Users\RezaulAkram\documents\visual studio 2010\Projects\520-S14-JelloCube\CreateWorld\CreateWorld.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CreateWorld.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\input.cpp ..\jello.cpp
+         jello.cpp
+     1>c:\users\rezaulakram\documents\visual studio 2010\projects\520-s14-jellocube\jello.cpp(226): warning C4101: 'i' : unreferenced local variable
+         input.cpp
+     1>c:\users\rezaulakram\documents\visual studio 2010\projects\520-s14-jellocube\input.cpp(231): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\rezaulakram\documents\visual studio 2010\projects\520-s14-jellocube\input.cpp(293): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\rezaulakram\documents\visual studio 2010\projects\520-s14-jellocube\input.cpp(296): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\rezaulakram\documents\visual studio 2010\projects\520-s14-jellocube\input.cpp(300): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\rezaulakram\documents\visual studio 2010\projects\520-s14-jellocube\input.cpp(303): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\rezaulakram\documents\visual studio 2010\projects\520-s14-jellocube\input.cpp(306): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\rezaulakram\documents\visual studio 2010\projects\520-s14-jellocube\input.cpp(308): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\rezaulakram\documents\visual studio 2010\projects\520-s14-jellocube\input.cpp(311): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\rezaulakram\documents\visual studio 2010\projects\520-s14-jellocube\input.cpp(321): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\rezaulakram\documents\visual studio 2010\projects\520-s14-jellocube\input.cpp(331): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\rezaulakram\documents\visual studio 2010\projects\520-s14-jellocube\input.cpp(342): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\rezaulakram\documents\visual studio 2010\projects\520-s14-jellocube\input.cpp(361): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+         Generating Code...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RezaulAkram\documents\visual studio 2010\Projects\520-S14-JelloCube\Debug\CreateWorld.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CreateWorld.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\RezaulAkram\documents\visual studio 2010\Projects\520-S14-JelloCube\Debug\CreateWorld.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RezaulAkram\documents\visual studio 2010\Projects\520-S14-JelloCube\Debug\CreateWorld.lib" /MACHINE:X86 Debug\input.obj
+         Debug\jello.obj
+         Debug\physics.obj
+         Debug\pic.obj
+         Debug\ppm.obj
+         Debug\showCube.obj
+         LINK : C:\Users\RezaulAkram\documents\visual studio 2010\Projects\520-S14-JelloCube\Debug\CreateWorld.exe not found or not built by the last incremental link; performing full link
+         CreateWorld.vcxproj -> C:\Users\RezaulAkram\documents\visual studio 2010\Projects\520-S14-JelloCube\Debug\CreateWorld.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\RezaulAkram\documents\visual studio 2010\Projects\520-S14-JelloCube\Debug\CreateWorld.exe;#1" /manifest Debug\CreateWorld.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\CreateWorld.unsuccessfulbuild".
+         Touching "Debug\CreateWorld.lastbuildstate".
+     1>Done Building Project "C:\Users\RezaulAkram\documents\visual studio 2010\Projects\520-S14-JelloCube\CreateWorld\CreateWorld.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.18
